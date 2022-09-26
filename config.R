@@ -19,7 +19,7 @@ usethis::create_github_token()
 
 # configuré GitHub PAT credentials
 gitcreds::gitcreds_set() # acá se mete el token
-# este es mi token:  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
+# este es mi token:  xxxxxxxxxxxxxxx
 # creá un GitHub repository and push
 usethis::use_git()
 #hacer un commit
